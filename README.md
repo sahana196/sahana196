@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-kori/) 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=156sharanya@gmail.com)
+[![Email](https://img.shields.io/badge/E-mail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=156sharanya@gmail.com)
 
 
 
