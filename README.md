@@ -11,12 +11,8 @@
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sahana196&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahana196&theme=dark)
-
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahana196&layout=compact&theme=dark)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahana196&icon=0&color=0)](https://visitcount.itsvg.in)
